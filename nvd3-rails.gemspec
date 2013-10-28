@@ -5,10 +5,10 @@ Gem::Specification.new do |s|
   s.name        = "nvd3-rails"
   s.version     = NVD3::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Manuel Knie"]
-  s.email       = ["manuel@adeven.com"]
+  s.authors     = ["Manuel Knie", "Thomas Kroeber"]
+  s.email       = ["manuel@adeven.com", "cellcortex@me.com"]
   s.homepage    = "http://adeven.com"
-  s.summary     = "Use nvd3 with Rails 3"
+  s.summary     = "Use nvd3 with Rails 4"
   s.description = "This gem provides nvd3 for your Rails 3 application."
 
   s.required_rubygems_version = ">= 1.3.6"
